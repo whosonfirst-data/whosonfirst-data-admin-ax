@@ -42,7 +42,7 @@
         "gn:id":3336540
     },
     "wof:country":"AX",
-    "wof:geomhash":"2636baa8e54b8ce5a8b9c965b0090325",
+    "wof:geomhash":"6cd226160e63999a4d007816b33174a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,5 +70,5 @@
     19.59361,
     60.18833000000001
 ],
-  "geometry": {"coordinates":[19.59361,60.18833000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.59361,60.18833],"type":"Point"}
 }

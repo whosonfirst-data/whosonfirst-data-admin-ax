@@ -43,7 +43,7 @@
         "gn:id":3336435
     },
     "wof:country":"AX",
-    "wof:geomhash":"e108e2f651b79ddc9a928239472e114d",
+    "wof:geomhash":"56c3460533c90757581779cb85d2e7c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,5 +72,5 @@
     19.83,
     60.12583000000001
 ],
-  "geometry": {"coordinates":[19.83,60.12583000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.83,60.12583],"type":"Point"}
 }
