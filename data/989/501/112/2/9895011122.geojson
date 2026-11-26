@@ -1,0 +1,76 @@
+{
+  "id": 9895011122,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.93341,60.16689,19.93341,60.16689",
+    "geom:latitude":60.16689,
+    "geom:longitude":19.93341,
+    "gn:population":5789,
+    "iso:country":"AX",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13527044: name \"Yomala\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13527044"
+        },
+        {
+            "citation":"GeoNames populated place 13527044: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13527044"
+        },
+        {
+            "citation":"GeoNames populated place 13527044: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13527044"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85667843 (Jomala), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        85667843,
+        102191581,
+        136253047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13527044
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"53c7b8a0df3d2640ab5c18ef72da76ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "locality_id":9895011122,
+            "region_id":85667843
+        }
+    ],
+    "wof:id":9895011122,
+    "wof:lastmodified":1795735221,
+    "wof:name":"Yomala",
+    "wof:parent_id":85667843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.93341,
+    60.16689,
+    19.93341,
+    60.16689
+],
+  "geometry": {"coordinates":[19.93341,60.16689],"type":"Point"}
+}

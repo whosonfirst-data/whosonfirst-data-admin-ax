@@ -1,0 +1,75 @@
+{
+  "id": 9895011118,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.9173,60.13393,19.9173,60.13393",
+    "geom:latitude":60.13393,
+    "geom:longitude":19.9173,
+    "iso:country":"AX",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12225703: name \"Sviby\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12225703"
+        },
+        {
+            "citation":"GeoNames populated place 12225703: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12225703"
+        },
+        {
+            "citation":"GeoNames populated place 12225703: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12225703"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85667843 (Jomala), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        85667843,
+        102191581,
+        136253047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12225703
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"9b50c4e0020f433819fdf1ca152e13aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "locality_id":9895011118,
+            "region_id":85667843
+        }
+    ],
+    "wof:id":9895011118,
+    "wof:lastmodified":1795735221,
+    "wof:name":"Sviby",
+    "wof:parent_id":85667843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.9173,
+    60.13393,
+    19.9173,
+    60.13393
+],
+  "geometry": {"coordinates":[19.9173,60.13393],"type":"Point"}
+}

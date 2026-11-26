@@ -1,0 +1,75 @@
+{
+  "id": 9895011120,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.07636,60.26082,20.07636,60.26082",
+    "geom:latitude":60.26082,
+    "geom:longitude":20.07636,
+    "iso:country":"AX",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12368021: name \"Hullby\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12368021"
+        },
+        {
+            "citation":"GeoNames populated place 12368021: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12368021"
+        },
+        {
+            "citation":"GeoNames populated place 12368021: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12368021"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85667863 (Saltvik), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        85667863,
+        102191581,
+        136253047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12368021
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"9a93b061ea3c6ea2bac20523a2e321ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "locality_id":9895011120,
+            "region_id":85667863
+        }
+    ],
+    "wof:id":9895011120,
+    "wof:lastmodified":1795735221,
+    "wof:name":"Hullby",
+    "wof:parent_id":85667863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.07636,
+    60.26082,
+    20.07636,
+    60.26082
+],
+  "geometry": {"coordinates":[20.07636,60.26082],"type":"Point"}
+}

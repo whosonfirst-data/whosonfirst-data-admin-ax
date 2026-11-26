@@ -1,0 +1,75 @@
+{
+  "id": 9895011117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.15245,59.99931,20.15245,59.99931",
+    "geom:latitude":59.99931,
+    "geom:longitude":20.15245,
+    "iso:country":"AX",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12225672: name \"Apallund\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12225672"
+        },
+        {
+            "citation":"GeoNames populated place 12225672: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12225672"
+        },
+        {
+            "citation":"GeoNames populated place 12225672: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12225672"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85667875 (Lemland), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632789,
+        85667875,
+        102191581,
+        136253047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12225672
+    },
+    "wof:country":"AX",
+    "wof:geomhash":"77af5abba1c3372aefba70ce659e4cbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "locality_id":9895011117,
+            "region_id":85667875
+        }
+    ],
+    "wof:id":9895011117,
+    "wof:lastmodified":1795735221,
+    "wof:name":"Apallund",
+    "wof:parent_id":85667875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ax",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.15245,
+    59.99931,
+    20.15245,
+    59.99931
+],
+  "geometry": {"coordinates":[20.15245,59.99931],"type":"Point"}
+}
